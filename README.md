@@ -1,2 +1,2 @@
 # diann-docker
-Create a docker image for DIA-NN
+Create a docker image containing diann executable.
